@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace AuctionObserver
+namespace Auction
 {
     public class Bidder
     {
@@ -97,4 +97,5 @@ namespace AuctionObserver
             lot.PlaceBid(petr, 1300m);
         }
     }
+
 }
